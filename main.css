@@ -1,3 +1,4 @@
+//aligning all headers to center
 h1 {
     text-align: center;
 }
@@ -7,20 +8,25 @@ h2 {
 h3 {
     text-align: center;
 }
+//changing background colour
 body {
     background-color: antiquewhite;
 }
+//making images on homepage smaller
 .images {
     width: 50%;
 }
+//customizing text
 p {
     text-align: center;
     font-weight: bold;
     text-decoration: underline;
 }
+//making home button look less scuffed
 #homeButton {
     font-size: x-large;
 }
+//customizing random secret text
 #randomComment {
     text-decoration: none;
     font-weight: 400;
