@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+body {
+    background-color: antiquewhite;
+}
+.images {
+    width: 50%;
+}
+p {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#homeButton {
+    font-size: x-large;
+}
+#randomComment {
+    text-decoration: none;
+    font-weight: 400;
+}
